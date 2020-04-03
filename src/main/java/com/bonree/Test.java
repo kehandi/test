@@ -13,7 +13,7 @@ import com.bonree.util.HttpClientResult;
  */
 public class Test {
     public static void main(String[] args) throws InterruptedException {
-        // 测试远程提交 2020年4月3日14:34:40 company
+        // 测试远程提交 2020年4月3日14:34:40 company change2
         int i = 0;
         while (true) {
             Thread.sleep(20 * 1000);
